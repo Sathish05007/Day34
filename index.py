@@ -13,7 +13,6 @@ cursor=conn.cursor()
 # cursor.execute(query)
 
 cursor.execute('use INSTAGRAM')
-
 # create_table="""create table if not  exists users(
 # user_id INT AUTO_INCREMENT PRIMARY KEY,
 #     username VARCHAR(30) NOT NULL UNIQUE,
